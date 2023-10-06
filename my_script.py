@@ -9,5 +9,5 @@ def main():
         print(f"(num) is (prime_status).")
         time.sleep(10)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
